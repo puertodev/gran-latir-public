@@ -1,9 +1,0 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- A simple, clean mushroom icon that works well as a small favicon -->
-    <g fill="#5a8a6f">
-        <!-- Mushroom Cap -->
-        <path d="M32.5 22.5C32.5 15.596 26.904 10 20 10C13.096 10 7.5 15.596 7.5 22.5" stroke="#4a7c59" stroke-width="2.5"/>
-        <!-- Mushroom Stem -->
-        <rect x="16.25" y="22.5" width="7.5" height="10" rx="1.5"/>
-    </g>
-</svg>
